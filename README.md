@@ -1,7 +1,7 @@
 # Le Manifeste pour l'Innovation de l'Informatique de l'Etat 🇸🇳
 Concevoir autrement le Sénégal numérique
 
-## Un manifeste qu'est que c'est ?
+## Un manifeste qu'est-ce que c'est ?
 C'est un document dans lequel nous allons poser nos constats sur ce qui devrait changer dans l'informatique de l'état du Sénégal, mais aussi apporter des solutions pour son innovation.
 
 ## Dystopie
