@@ -12,7 +12,7 @@ Dans quel Informatique de l'Etat du Sénégal, vous ne voudriez surtout pas vivr
 * ...
 
 ## Solutions
-Partager ici vos solutions ou des solutions qui excite déjà et qui sont mise en pratique dans d'autres pays, merci d'être factuelle.
+Partager ici vos solutions ou des solutions qui existent déjà et qui sont mises en pratique dans d'autres pays, merci d'être factuelle.
 
 * [Lettre ouverte au Directeur Général de l’ADIE: Une administration intelligente doit s’appuyer sur l’Open Data
 ](solutions/administration-intelligente-avec-Open-Data.md)
