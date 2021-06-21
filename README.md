@@ -7,22 +7,23 @@ C'est un document dans lequel nous allons poser nos constats sur ce qui devrait 
 ## Dystopie
 Dans quel Informatique de l'Etat du Sénégal, vous ne voudriez surtout pas vivre? nous vous invitons à partager ici vos mauvaises expériences et problème merci d'être quantitatifs et qualitatifs avec des sources et chiffres si possible pour qu'on sente bien la gravité du problème.
 
-* [Titre 1](dystopie/titre-1.md)
-* [Titre 2](dystopie/titre-2.md)
+* [L’Algo Démocratie au Sénégal](dystopie/algo-democratie-senegal.md)
+* [L’UE finance l’état civil du Sénégal avec une technologie biométrique de 28 millions € pour identifier et faciliter les expulsions](dystopie/ue-etat-civil-senégal.md)
 * ...
 
 ## Solutions
 Partager ici vos solutions ou des solutions qui excite déjà et qui sont mise en pratique dans d'autres pays, merci d'être factuelle.
 
-* [Titre 1](solutions/titre-1.md)
+* [Lettre ouverte au Directeur Général de l’ADIE: Une administration intelligente doit s’appuyer sur l’Open Data
+](solutions/administration-intelligente-avec-Open-Data.md)
 * [Titre 2](solutions/titre-2.md)
 * ...
 
 ## Utopie
 Dans quel Informatique de l'Etat du Sénégal, vous aimeriez vraiment vivre? même s'il est imaginaire partager avec nous votre vision.
 
-* [Titre 1](utopie/titre-1.md)
-* [Titre 2](utopie/titre-2.md)
+* [I Citoyen](utopie/i-citoyen.md)
+* [Smart Parrainage](utopie/smart-parrainage.md)
 * ...
 
 ## Contribution
@@ -31,7 +32,7 @@ Ce projet est construit par d'incroyables bénévoles et vous pouvez en faire pa
 
 ## Contributeurs
 
-* [Prénom Nom](https://lien-vers-profile)
+* [Mamadou Diagne](https://linktr.ee/dofbi)
 
 ## Licence
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
