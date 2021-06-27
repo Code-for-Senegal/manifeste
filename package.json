@@ -1,0 +1,29 @@
+{
+  "name": "manifeste",
+  "version": "1.0.0",
+  "description": "Concevoir autrement le Sénégal numérique",
+  "main": "test.js",
+  "scripts": {
+    "test": "tap test/test.js -R min --no-coverage-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-for-Senegal/manifeste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Code-for-Senegal/manifeste/issues"
+  },
+  "homepage": "https://github.com/Code-for-Senegal/manifeste#readme",
+  "dependencies": {
+    "remark": "^13.0.0",
+    "remark-extract-frontmatter": "^3.1.0",
+    "remark-frontmatter": "^3.0.0",
+    "strip-markdown": "^4.0.0",
+    "tap": "^15.0.9",
+    "to-vfile": "^6.0.0",
+    "yaml": "^1.10.2"
+  }
+}
