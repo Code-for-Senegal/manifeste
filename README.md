@@ -1,5 +1,7 @@
 # Le Manifeste pour l'Innovation de l'Informatique de l'Etat 🇸🇳
 
+[![GitHub contributeurs](https://img.shields.io/github/contributors/Code-for-Senegal/manifeste.svg?style=for-the-badge)](https://github.com/Code-for-Senegal/manifeste/graphs/contributors) [![GitHub dernier commit](https://img.shields.io/github/last-commit/Code-for-Senegal/manifeste.svg?style=for-the-badge)](https://github.com/Code-for-Senegal/manifeste/commits/master) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) [![Travis (.com) branch](https://img.shields.io/travis/com/Code-for-Senegal/manifeste/main?style=for-the-badge)](https://travis-ci.com/Code-for-Senegal/manifeste)
+
 Concevoir autrement le Sénégal numérique
 
 ## Un manifeste qu'est-ce que c'est ?
