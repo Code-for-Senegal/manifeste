@@ -20,7 +20,7 @@ Partager ici vos solutions ou des solutions qui existent déjà et qui sont mise
 
 * [Lettre ouverte au Directeur Général de l’ADIE: Une administration intelligente doit s’appuyer sur l’Open Data
 ](docs/solutions/administration-intelligente-avec-Open-Data.md)
-* [Titre 2](docs/solutions/titre-2.md)
+* [Votre commune sera-t-elle l’une des 8 nouvelles « Local Open GovLab » ?](docs/solutions/local-open-govLab.md)
 * ...
 
 ## Utopie
