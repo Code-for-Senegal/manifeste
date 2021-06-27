@@ -33,7 +33,7 @@ Dans quel Informatique de l'Etat du Sénégal, vous aimeriez vraiment vivre? mê
 
 ## Contribution
 
-Ce projet est construit par d'incroyables bénévoles et vous pouvez en faire partie! Voici [comment vous pouvez contribuer à ce projet](https://github.com/Code-for-Senegal/manifeste/issues).
+Ce projet est construit par d'incroyables bénévoles et vous pouvez en faire partie! Voici [comment vous pouvez contribuer à ce projet](https://github.com/Code-for-Senegal/manifeste/issues/new).
 
 ## Contributeurs
 
