@@ -1,0 +1,3 @@
+# Solution de la Plateforme adaptative
+
+La solution consiste à utiliser un logiciel open Source(Cocalc en Environnement Docker) pour coupler avec kubernetes pour faire du autoscaling...
