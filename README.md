@@ -14,7 +14,7 @@ Dans quel Informatique de l'Etat du Sénégal, vous ne voudriez surtout pas vivr
 
 * [L’Algo Démocratie au Sénégal](docs/dystopie/algo-democratie-senegal.md)
 * [L’UE finance l’état civil du Sénégal avec une technologie biométrique de 28 millions € pour identifier et faciliter les expulsions](docs/dystopie/ue-etat-civil-senégal.md)
-* ...
+* [Administration sénégalaise @ Gmail, Yahoo, Hotmail...](docs/dystopie/administration-senegalaise-%40-gmail-yahoo-hotmail.md)
 
 ## Solutions
 
@@ -23,6 +23,7 @@ Partager ici vos solutions ou des solutions qui existent déjà et qui sont mise
 * [Lettre ouverte au Directeur Général de l’ADIE: Une administration intelligente doit s’appuyer sur l’Open Data
 ](docs/solutions/administration-intelligente-avec-Open-Data.md)
 * [Votre commune sera-t-elle l’une des 8 nouvelles « Local Open GovLab » ?](docs/solutions/local-open-govLab.md)
+* [Plateforme pour faire nos démarches administratives en ligne](docs/solutions/pda.md)
 * ...
 
 ## Utopie
@@ -31,7 +32,9 @@ Dans quel Informatique de l'Etat du Sénégal, vous aimeriez vraiment vivre? mê
 
 * [I Citoyen](docs/utopie/i-citoyen.md)
 * [Smart Parrainage](docs/utopie/smart-parrainage.md)
-* ...
+* [Les sattelites du sénégal](docs/utopie/galsen-in-space.md)
+* [Plateforme colaborative](docs/utopie/plateforme.md)
+* [Les Robots dans le futur](docs/utopie/robot.md)
 
 ## Contribution
 
